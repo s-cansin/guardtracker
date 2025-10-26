@@ -1,0 +1,25 @@
+
+Processing D:\Projects\Resources\Windows\Bekçi kontrol yazýlýmý\bekçi kontrol yazýlýmý3\Bekçi Kontrol Yazýlýmý.ci 22.03.2010 21:50:48
+Log file: D:\Projects\Resources\Windows\Bekçi kontrol yazýlýmý\bekçi kontrol yazýlýmý3\Bekçi Kontrol Yazýlýmý.log 
+Generating Sources... 
+Compiling Gentee Sources... 
+Build setup file: D:\Projects\samedcansin.com\bekcikontrol.exe 
+Adding temporary file(s) to EXE 
+C:\DOCUME~1\Coder\LOCALS~1\Temp\gentee00\turkish.lng 22.03.2010 21:50:49 3574  45.46%
+C:\Program Files\CreateInstall Free\res\logo\default - 1.bmp 05.11.2002 10:52:24 7308  52.50%
+C:\Program Files\CreateInstall Free\res\leftimg\install\install - 1.bmp 10.11.2002 10:56:02 20678  33.42%
+C:\Program Files\CreateInstall Free\res\leftimg\uninstall\uninstall - 1.bmp 10.11.2002 10:56:02 20678  28.17%
+Build setup file: C:\DOCUME~1\Coder\LOCALS~1\Temp\gentee00\uninstall.exe 
+Adding uninstall file(s) to EXE 
+Getting list of files 
+Packing files... 
+================================ 
+D:\Projects\Resources\Windows\Bekçi kontrol yazýlýmý\bekçi kontrol yazýlýmý3\bekcikontrol.exe 22.03.2010 21:49:16 376832  21.42%
+D:\Projects\Resources\Windows\Bekçi kontrol yazýlýmý\bekçi kontrol yazýlýmý3\db.mdb 22.03.2010 15:03:39 233472  6.78%
+D:\Projects\Resources\Windows\Bekçi kontrol yazýlýmý\bekçi kontrol yazýlýmý3\bar.bmp 24.04.2006 05:19:56 42678  0.06%
+D:\Projects\Resources\Windows\Bekçi kontrol yazýlýmý\bekçi kontrol yazýlýmý3\install.ico 01.01.1985 04:00:46 3638  42.55%
+D:\Projects\Resources\Windows\Bekçi kontrol yazýlýmý\bekçi kontrol yazýlýmý3\card.ico 18.01.2001 14:52:56 4710  0.74%
+================================ 
+All files: 5 [ 645KB => 95KB ] 
+File Size D:\Projects\samedcansin.com\bekcikontrol.exe: 206 KB 
+Finish Successful 22.03.2010 21:50:51
