@@ -4,12 +4,13 @@
 
 ## 📌 Overview
 
-GuardTracker is a software application designed to help security guards track and log their patrols during shifts. It provides time-stamped checkpoints, reporting, and database management.
+GuardTracker is a software application designed to help security guards track and log their patrols during shifts. It retrieves visit logs from tracker device, archives and reports each event created on checkpoints (I-buttons sticked on facility walls).
 
 ---
 
 ## 🛠 Features
 
+- Retrieving logs from tracker device
 - Checkpoint-based patrol tracking  
 - Guard and checkpoint management  
 - Time-stamped activity logging  
@@ -25,40 +26,11 @@ GuardTracker is a software application designed to help security guards track an
 
 **System Requirements:**
 
-- Python 3.11+  
-- SQLite 3 (bundled)  
-- Required Python packages:  
-  ```bash
-  pip install -r requirements.txt
+- Tracker Device
+- IButtons (for each checkpoint)
+- MSAccess
+- Windows XP+
   ```  
-
-**Optional:**  
-- Windows 10+ / Linux / macOS  
-- Administrator privileges for some system features  
-
----
-
-## 🚀 Installation
-
-1. Download the latest release zip from the [Releases](https://github.com/s-cansin/guardtracker/releases) page.  
-2. Extract the zip file to your desired location.  
-3. Open a terminal/command prompt and navigate to the extracted folder.  
-4. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-5. Run the application:
-   ```bash
-   python main.py
-   ```
-
----
-
-## ⚠️ Important Notes
-
-- The program interface is entirely in **Turkish**.  
-- Make sure your Python version matches the required version.  
-- Database files will be created automatically in the working directory.
 
 ---
 
